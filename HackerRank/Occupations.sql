@@ -17,4 +17,3 @@ from (select  *, row_number()
 group by rank_occupation
 order by rank_occupation
 
-
